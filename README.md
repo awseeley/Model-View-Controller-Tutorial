@@ -4,7 +4,7 @@ Model View Controller Tutorial
 We look at Model View Controller (MVC), what it is and how to use it
 
 Tutorial:
-http://www.seemuapps.com/swift-grand-central-dispatch-and-multi-threading-tutorial
+http://www.seemuapps.com/swift-model-view-controller-mvc-beginners
 
 Check out our Website: http://www.seemuapps.com
 
